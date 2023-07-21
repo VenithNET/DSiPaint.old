@@ -11,4 +11,4 @@ To-do:
 - Open testing phase. [0%]
 
 [![Discord](https://tinyurl.com/2p9xchfn)](https://discord.gg/znMAEfN7Xm)
-https://sdkpaint.github.io/DSiPaint/
+https://sdkpaint.github.io/DSiPaint.old/
